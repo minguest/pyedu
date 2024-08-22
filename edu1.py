@@ -3,5 +3,5 @@ class MyClass:
         self.name = name
 
 
-m = MyClass("minguest")
+m = MyClass("minguest2")
 print(m.name)
